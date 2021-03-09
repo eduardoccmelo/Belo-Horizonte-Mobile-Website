@@ -1,4 +1,4 @@
-# Eduardo's Projects
+# Belo Horizonte Project
 
-A website about Belo Horizonte and another one about the WSL Locations
+A website about the city of Belo Horizonte in Brazil
 
